@@ -195,9 +195,9 @@ Proyek ini dikerjakan oleh mahasiswa **Teknik Informatika, Universitas Negeri Go
 | Nama | Peran |
 |---|---|
 | **Moh. Agil S. Abdul** | Pengembang · [GitHub](https://github.com/gemorca) · [Instagram](https://instagram.com/mohammadagill) |
-| **Rizki Asune** | Pengembang |
-| **Dwita Makhfira Lumiu** | Pengembang |
-| **Mohammad Latif Bala** | Pengembang |
+| **Rizki Asune** | Pengembang · [Instagram](https://instagram.com/rizkiasunee_)|
+| **Dwita Makhfira Lumiu** | Pengembang · [Instagram](https://instagram.com/dwita.makhfira)|
+| **Mohammad Latif Bala** | Pengembang · [Instagram](https://instagram.com/clover_bala)|
 
 > Pustaka pihak ketiga yang disebutkan di bagian Teknologi tetap menjadi milik masing-masing pembuatnya dan digunakan sesuai lisensi mereka.
 
